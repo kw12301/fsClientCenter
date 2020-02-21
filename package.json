@@ -1,0 +1,25 @@
+{
+  "name": "fsclientcenter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kw12301/fsClientCenter.git"
+  },
+  "author": "Kevin Winn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kw12301/fsClientCenter/issues"
+  },
+  "homepage": "https://github.com/kw12301/fsClientCenter#readme",
+  "dependencies": {
+    "@salesforce-ux/design-system": "^2.11.4",
+    "express": "^4.17.1",
+    "helmet": "^3.21.2",
+    "morgan": "^1.9.1"
+  }
+}
